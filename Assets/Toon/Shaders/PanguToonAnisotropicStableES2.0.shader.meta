@@ -3,6 +3,7 @@ guid: f76eb0535adee224db4b32b6ef517d9c
 timeCreated: 1497348322
 licenseType: Pro
 ShaderImporter:
+  externalObjects: {}
   defaultTextures:
   - _DiffuseTextue: {fileID: 2800000, guid: bb453cfa79ebb9643aed412f78820e0b, type: 3}
   - _ToonRamp: {fileID: 2800000, guid: c84e3ff12d093be4b84f183c567c9696, type: 3}
